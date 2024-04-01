@@ -1,7 +1,7 @@
 # Retryable RabbitMQ
 
 Handling retry mechanisms in RabbitMQ was traditionally challenging. However, with
-`optimal-retryable-rabbitmq`, it becomes remarkably straightforward. By seamlessly integrating this
+`retryable-rabbitmq`, it becomes remarkably straightforward. By seamlessly integrating this
 library into your project, you empower your applications with robust and reliable message processing
 capabilities without the hassle of complex setup procedures.
 
